@@ -26,12 +26,14 @@ Elist 三年的总销售额达到 **615 万美元**。其中：
 - **拉丁美洲**占比最低，仅为 **6%**。
 
 总体而言，Elist 的主要销售贡献来自 **显示器** 和 **游戏机**。
-
+![Image text]([https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg](https://github.com/Noahreinner/-_-/blob/bf5b49143e61881470c300769fdbd98687971b24/5b6468dc2e1f1efcb75847f41643063c.png))
+_注：棕色线条为Sony PlayStation 5 Bundle_  
+![Image text](https://github.com/Noahreinner/-_-/blob/bf5b49143e61881470c300769fdbd98687971b24/8d6d09595d246ab1d897ac5252904660.png)
 **Nintendo Switch 的退货问题**：Nintendo Switch 在各地区一直有不错的表现，是仅次于显示器的热销产品，但其退货率却一直居高不下，整体退货率达到 **25%**。同时我们发现，发货时间和送货时间的长短对退货率有着非常明显的影响：
 
 - 超过三天发货的订单退货量超过 **8,000 单**，而 Nintendo Switch 超过三天发货的订单量占总订单量 **50%**。
 - 超过十天送达的订单退货数超过 **2,100 单**，Nintendo Switch 超过十天送达的订单量占总订单量 **50%**。
-
+![Image text](https://github.com/Noahreinner/-_-/blob/bf5b49143e61881470c300769fdbd98687971b24/ed0e3bff9e643fc8c56ae0bcda188166.png)
 ### 3. 销售渠道
 
 - **直销**是最强力的销售渠道，超过 **70%** 的订单来自直销。但如此高的占比并非完全是好事，渠道单一化存在潜在风险。
@@ -39,7 +41,7 @@ Elist 三年的总销售额达到 **615 万美元**。其中：
 
 值得注意的是，不同平台创建账号的用户对于购买方式的选择也有一定影响：
 - 使用 **移动端注册的用户** 中，超过 **41%** 会倾向于使用 **邮件** 进行购买，这一比例远高于其他注册渠道。可能是因为用户通过邮件营销看到产品参数比其他渠道更直观、更省时。
-
+![Image text](https://github.com/Noahreinner/-_-/blob/bf5b49143e61881470c300769fdbd98687971b24/969a04b4fe09921ce3830fb60df81c6e.png)
 ---
 
 ## 三、建议
