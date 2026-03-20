@@ -1,0 +1,24 @@
+TRUNCATE TABLE elist订单表;
+
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/elist_order.csv'
+INTO TABLE elist订单表
+FIELDS TERMINATED BY ',' 
+LINES TERMINATED BY '\n' 
+IGNORE 1 ROWS
+(@ID, @customer_ID, @PURCHASE_TS, @PRODUCT_ID, @PRODUCT_NAME, @USD_PRICE, @PURCHASE_PLATFORM, @MARKETING_CHANNEL, LOYALTY_PROGRAM)
+SET 
+    ID = NULLIF(TRIM(@ID), ''),
+    customer_ID = NULLIF(TRIM(@customer_ID), ''),
+    PURCHASE_TS = NULLIF(TRIM(@PURCHASE_TS), ''),
+    PRODUCT_ID = NULLIF(TRIM(@PRODUCT_ID), ''),
+    PRODUCT_NAME = NULLIF(TRIM(@PRODUCT_NAME), ''),
+    USD_PRICE = NULLIF(TRIM(@USD_PRICE), ''),
+    PURCHASE_PLATFORM = NULLIF(TRIM(@PURCHASE_PLATFORM), ''),
+    MARKETING_CHANNEL = NULLIF(TRIM(@MARKETING_CHANNEL), '');
+    
+    
+
+select * from elist订单表 limit 10;
+
+select count(*) as row_count
+from elist订单表;
