@@ -29,7 +29,8 @@ Elist 三年的总销售额达到 **615 万美元**。其中：
 ![Image text]([https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg](https://github.com/Noahreinner/-_-/blob/bf5b49143e61881470c300769fdbd98687971b24/5b6468dc2e1f1efcb75847f41643063c.png))
 _注：棕色线条为Sony PlayStation 5 Bundle_  
 ![Image text](https://github.com/Noahreinner/-_-/blob/bf5b49143e61881470c300769fdbd98687971b24/8d6d09595d246ab1d897ac5252904660.png)
-**Nintendo Switch 的退货问题**：Nintendo Switch 在各地区一直有不错的表现，是仅次于显示器的热销产品，但其退货率却一直居高不下，整体退货率达到 **25%**。同时我们发现，发货时间和送货时间的长短对退货率有着非常明显的影响：
+**Nintendo Switch 的退货问题**：
+Nintendo Switch 在各地区一直有不错的表现，是仅次于显示器的热销产品，但其退货率却一直居高不下，整体退货率达到 **25%**。同时我们发现，发货时间和送货时间的长短对退货率有着非常明显的影响：
 
 - 超过三天发货的订单退货量超过 **8,000 单**，而 Nintendo Switch 超过三天发货的订单量占总订单量 **50%**。
 - 超过十天送达的订单退货数超过 **2,100 单**，Nintendo Switch 超过十天送达的订单量占总订单量 **50%**。
